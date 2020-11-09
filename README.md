@@ -44,3 +44,16 @@ if __name__ == '__main__':
     main()
 
 ```
+
+https://wxpython.org
+
+	Установка:
+pip3 install -U wxPython
+
+	или так:
+sudo apt-get install python-wxgtk3.0
+
+---
+
+pip3 install pyinstaller
+pyinstaller --onefile --windowed start.py
