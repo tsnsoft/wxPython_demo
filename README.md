@@ -47,13 +47,18 @@ if __name__ == '__main__':
 
 https://wxpython.org
 
-	Установка:
-pip3 install -U wxPython
+Установка:
+```pip3 install -U wxPython
+```
 
-	или так:
+или так:
+```
 sudo apt-get install python-wxgtk3.0
+```
 
 ---
-
+Как сделать портативную программу в виде одного исполняемого файла:
+```
 pip3 install pyinstaller
 pyinstaller --onefile --windowed start.py
+```
