@@ -63,3 +63,6 @@ sudo apt-get install python-wxgtk3.0
 pip3 install pyinstaller
 pyinstaller --onefile --windowed start.py
 ```
+---
+## wxFormBuilder
+https://github.com/wxFormBuilder/wxFormBuilder
