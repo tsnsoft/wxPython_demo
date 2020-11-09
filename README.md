@@ -64,5 +64,4 @@ pip3 install pyinstaller
 pyinstaller --onefile --windowed start.py
 ```
 ---
-## wxFormBuilder
-https://github.com/wxFormBuilder/wxFormBuilder
+## wxFormBuilder: https://github.com/wxFormBuilder/wxFormBuilder
