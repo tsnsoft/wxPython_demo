@@ -1,0 +1,7 @@
+https://wxpython.org
+
+	Установка:
+pip3 install -U wxPython
+
+	или так:
+sudo apt-get install python-wxgtk3.0
