@@ -1,5 +1,5 @@
 # wxPython_demo
-Пример оконной программы на wxPython c wxWidgets и использованием wxFormBuilder
+Пример оконной программы на wxPython c wxWidgets и использованием формы от wxFormBuilder
 
 ![srcreenshot](screenshot.png)
 
